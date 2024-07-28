@@ -31,3 +31,5 @@ This project is a real-time chat application developed using the MERN stack (Mon
 </ul>
 
 # REAL CHAT INTERFACE
+![real time](https://github.com/user-attachments/assets/2f21a627-a1ef-4599-9385-1a5c608e97b0)
+![cha real](https://github.com/user-attachments/assets/16e835d3-2de9-43b8-9f50-70697b8fb0fc)
