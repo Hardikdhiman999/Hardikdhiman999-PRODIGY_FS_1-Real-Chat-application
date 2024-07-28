@@ -20,7 +20,7 @@ This project is a real-time chat application developed using the MERN stack (Mon
 ![interface](https://github.com/user-attachments/assets/d0ac52fb-c5ba-42e9-8e2b-94a113058571)
 
 # Php with mysql Interface
-
+![interface mysql](https://github.com/user-attachments/assets/015c00b1-7d32-4f2c-9936-e5256f59649b)
 
 # TECHNOLOGY USED
 <ul>
@@ -29,3 +29,5 @@ This project is a real-time chat application developed using the MERN stack (Mon
 <li>mysql</li>
 <li>php</li>
 </ul>
+
+# REAL CHAT INTERFACE
