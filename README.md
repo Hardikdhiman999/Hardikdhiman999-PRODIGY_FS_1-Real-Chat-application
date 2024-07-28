@@ -2,7 +2,7 @@
 
 # Real-Chat-application
 
-This project is a real-time chat application developed using the MERN stack (MongoDB, Express.js, React, Node.js) and Socket.IO technology. The application allows users to create accounts, join chat rooms, or initiate private conversations, and exchange text messages in real-time. User chat history is stored to ensure conversations are saved and accessible. Additional features such as notifications, user presence indicators, and multimedia file-sharing capabilities enhance the chat experience.
+This project is a real-time chat application developed using the full stack (php, mysql, html. css, javascript)  technology. The application allows users to create accounts, join chat rooms, or initiate private conversations, and exchange text messages in real-time. User chat history is stored to ensure conversations are saved and accessible. Additional features such as notifications, user presence indicators, and multimedia file-sharing capabilities enhance the chat experience.
 
 # FEATURES
 <ul>
