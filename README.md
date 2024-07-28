@@ -1,1 +1,17 @@
-# Hardikdhiman999-PRODIGY_FS_1-Real-Chat-application
+# Hardikdhiman999-PRODIGY_FS_1
+
+# Real-Chat-application
+
+This project is a real-time chat application developed using the MERN stack (MongoDB, Express.js, React, Node.js) and Socket.IO technology. The application allows users to create accounts, join chat rooms, or initiate private conversations, and exchange text messages in real-time. User chat history is stored to ensure conversations are saved and accessible. Additional features such as notifications, user presence indicators, and multimedia file-sharing capabilities enhance the chat experience.
+
+# FEATURES
+<un>
+<li>User Authentication: Users can create accounts and log in securely.</li>
+<li>Chat Rooms: Users can join existing chat rooms or create new ones.</li>
+<li>Private Messaging: Users can initiate private conversations.</li>
+<li>Real-Time Messaging: Instant exchange of text messages using WebSocket technology.</li>
+<li>Chat History: Persistent storage of user chat history.</li>
+<li>Notifications: Real-time notifications for new messages (optional feature).</li>
+<li>User Presence Indicators: Show online/offline status of users (optional feature).</li>
+<li>Multimedia File Sharing: Share images, videos, and other files within the chat (optional feature).</li>
+</un>
